@@ -1,0 +1,6 @@
+{
+  "name": "AuthHub - Firebase Authentication",
+  "description": "A secure, modern authentication portal featuring user registration, login, password recovery, and profile management powered by Firebase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
